@@ -1,4 +1,4 @@
 import random
-import simple_colors
+from simple_colors import *
 
-print(red("List Program"))
+print(green("List Program"))
